@@ -26,7 +26,7 @@ To get started with the Coffee Shop Reporting Dashboard, follow these steps:
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/eakayoglu/cc-streamlit-reporting.git
-    cd cc
+    cd cc-streamlit-reporting
     ```
 
 2. **Create a virtual environment:**
